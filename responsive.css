@@ -61,7 +61,7 @@
 
   .top-wrapper {
     text-align: left;
-    background-size: auto;
+    background-size: contain;
   }
 
   /* header-rightクラスのdisplayをnoneに指定してください */
